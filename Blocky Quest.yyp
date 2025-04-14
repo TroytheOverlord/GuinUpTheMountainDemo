@@ -50,6 +50,7 @@
     {"id":{"name":"oBattlePlayer","path":"objects/oBattlePlayer/oBattlePlayer.yy",},},
     {"id":{"name":"oBattleSwitcher","path":"objects/oBattleSwitcher/oBattleSwitcher.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
+    {"id":{"name":"oDepthSort","path":"objects/oDepthSort/oDepthSort.yy",},},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},},
     {"id":{"name":"oEnemy2","path":"objects/oEnemy2/oEnemy2.yy",},},
     {"id":{"name":"oEnemyParent","path":"objects/oEnemyParent/oEnemyParent.yy",},},
@@ -60,6 +61,7 @@
     {"id":{"name":"oSword","path":"objects/oSword/oSword.yy",},},
     {"id":{"name":"qteController","path":"objects/qteController/qteController.yy",},},
     {"id":{"name":"Battle","path":"rooms/Battle/Battle.yy",},},
+    {"id":{"name":"Level_2","path":"rooms/Level_2/Level_2.yy",},},
     {"id":{"name":"Overworld","path":"rooms/Overworld/Overworld.yy",},},
     {"id":{"name":"sFishCoin","path":"sprites/sFishCoin/sFishCoin.yy",},},
     {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},},
@@ -87,6 +89,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Overworld","path":"rooms/Overworld/Overworld.yy",},},
     {"roomId":{"name":"Battle","path":"rooms/Battle/Battle.yy",},},
+    {"roomId":{"name":"Level_2","path":"rooms/Level_2/Level_2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
