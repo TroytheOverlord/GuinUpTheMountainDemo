@@ -13,11 +13,11 @@ if (qte_active) {
     
         var damageMultiplier = 1.4; // Default "Bad" multiplier
         
-        if (button_press_count >= 40) {
+        if (button_press_count >= 35) {
             result_message = "Perfect!";
             damageMultiplier = 2;
         } 
-        else if (button_press_count >= 35) {
+        else if (button_press_count >= 30) {
             result_message = "Great!";
             damageMultiplier = 1.8;
         } 
