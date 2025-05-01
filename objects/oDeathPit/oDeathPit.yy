@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sPlayer",
-    "path":"sprites/sPlayer/sPlayer.yy",
+    "name":"sTransition",
+    "path":"sprites/sTransition/sTransition.yy",
   },
   "spriteMaskId":null,
   "visible":true,

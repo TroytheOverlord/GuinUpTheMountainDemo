@@ -2,19 +2,19 @@
 
 CreateDialogue([
   {
-    name: "Guin",
-    msg:  "This is the tale of Guin up the Mountain"
+    name: "Bucky",
+    msg:  "This is it Guin we're at the base of the Mountain"
   },
 
 {
-    name: "Bucky",
-    msg: "this is a tale of revenege against the evil legion of polar bears and their leader Beartholomew"
+    name: "Guin",
+    msg: "...Beartholomew you will pay for what you've done"
     
 },
 
 {
-    name: "Guin",
-    msg: "follow Guin the Penguin as she embarks on her journey to avanege her people"
+    name: "Bucky",
+    msg: "Yea you tell em buddy this is the beginning of Guin Up the Mountain"
     
 }
 
