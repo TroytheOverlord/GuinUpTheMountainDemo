@@ -40,5 +40,3 @@ var spr_width = sprite_get_width(sFishCoin);
 // Draw Fish Currency Text next to the sprite
 
 draw_text(dx + spr_width + 4, dy + 52, $"x {fishCoins}"); 
-
-

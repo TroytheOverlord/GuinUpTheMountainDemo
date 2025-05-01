@@ -19,11 +19,11 @@ if (qte_active) {
         } 
         else if (button_press_count >= 30) {
             result_message = "Great!";
-            damageMultiplier = 1.8;
+            damageMultiplier = 1.6;
         } 
         else if (button_press_count >= 25) {
             result_message = "Good!";
-            damageMultiplier = 1.6;
+            damageMultiplier = 1.4;
         } 
         else {
             result_message = "Bad";

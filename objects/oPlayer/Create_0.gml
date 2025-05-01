@@ -7,6 +7,10 @@ jumpSp = 16;
 
 moveX = 0;
 moveY = 0;
+mvtLocked = 0;
+wallAnimTimer = 0;
+
+
 
 // Battle Variables
 hp = 10;
@@ -20,6 +24,7 @@ xp = 0;
 xpRequired = 100;
 
 canWallJump = false;
+animState = "";
 
 // Allows Player to level up
 function AddXp(xp_to_add){

@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_enemy2",
-    "path":"sprites/spr_enemy2/spr_enemy2.yy",
+    "name":"sSeal",
+    "path":"sprites/sSeal/sSeal.yy",
   },
   "spriteMaskId":null,
   "visible":true,
